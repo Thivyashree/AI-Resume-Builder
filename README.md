@@ -21,10 +21,6 @@ This project is a React + Vite based AI-powered resume builder.
 - ESLint
 - Babel/SWC (Choose one)
 
-## 📸 Screenshot
-
-![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
-
 ---
 
 You can customize the text above to better suit your project.
@@ -40,7 +36,8 @@ Make sure to save the changes to `README.md`.
 ### ✅ 3. Push the Updated README to GitHub
 
 Open your terminal and run:
+
 ```bash
 git add README.md
-git commit -m "Updated README with project details"
+git commit -m "Removed screenshot from README"
 git push origin main
